@@ -46,7 +46,7 @@ const personas = {
         guias: [
             {
                 credencial: "N433120",
-                expedicion: "2002-08-23",
+                expedicion: "2023-08-02",
                 vigencia: "02/08/2027",
                 tipo: "Guía de turista general",
                 especializacion: "-",
