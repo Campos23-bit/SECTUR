@@ -53,23 +53,23 @@ const personas = {
 
 
     "9174": {
-        nombre: "MARÍA GONZÁLEZ MARTÍNEZ",
-        estadoMunicipio: "PUEBLA, PUEBLA",
-        idiomas: "ESPAÑOL, INGLÉS, FRANCÉS",
-        lugarTrabajo: "Puebla",
+        nombre: "MARLEN GABRIELA NUÑEZ GUZMÁN",
+        estadoMunicipio: "SAN MARTÍN DE LAS PIRAMIDES, MÉXICO",
+        idiomas: "ESPAÑOL, INGLÉS",
+        lugarTrabajo: "Teotihuacán",
 
         ubicacion: {
-            lat: 19.0414,
-            lng: -98.2063
+            lat: 19.683686,
+            lng: -98.869295
         },
 
         guias: [
             {
-                credencial: "N011474",
-                expedicion: "2024-03-10",
-                vigencia: "10/03/2028",
+                credencial: "N433120",
+                expedicion: "2023-08-02",
+                vigencia: "02/08/2027",
                 tipo: "Guía de turista general",
-                especializacion: "Cultura",
+                especializacion: "-",
                 subtema: "-",
                 aventura: "-",
                 nivel: ""
