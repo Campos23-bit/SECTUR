@@ -27,8 +27,8 @@ const personas = {
         guias: [
             {
                 credencial: "N2658",
-                expedicion: "2022-09-25",
-                vigencia: "25/09/2026",
+                expedicion: "2026-04-14",
+                vigencia: "14/04/2030",
                 tipo: "Guía de turista general",
                 especializacion: "-",
                 subtema: "-",
@@ -46,8 +46,8 @@ const personas = {
         guias: [
             {
                 credencial: "N433120",
-                expedicion: "2023-08-02",
-                vigencia: "02/08/2027",
+                expedicion: "2026-04-07",
+                vigencia: "07/04/2030",
                 tipo: "Guía de turista general",
                 especializacion: "-",
                 subtema: "-",
