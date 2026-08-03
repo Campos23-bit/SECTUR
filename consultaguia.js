@@ -56,6 +56,44 @@ const personas = {
             }
         ]
     },    
+    "9176": {
+        nombre: "JESUS EFREN GUTIERREZ SANCHEZ",
+        estadoMunicipio: "TEOTIHUACÁN, MÉXICO",
+        idiomas: "ESPAÑOL, INGLÉS",
+        lugarTrabajo: "Teotihuacán",
+        ubicacion: { lat: 19.683686, lng: -98.869295 },
+        guias: [
+            {
+                credencial: "N011275",
+                expedicion: "2026-03-16",
+                vigencia: "16/03/2030",
+                tipo: "Guía de turista general",
+                especializacion: "-",
+                subtema: "-",
+                aventura: "-",
+                nivel: ""
+            }
+        ]
+    },    
+    "9177": {
+        nombre: "ALDO EMMANUEL HERNANDEZ ORTIZ",
+        estadoMunicipio: "TEOTIHUACÁN, MÉXICO",
+        idiomas: "ESPAÑOL",
+        lugarTrabajo: "Teotihuacán",
+        ubicacion: { lat: 19.683686, lng: -98.869295 },
+        guias: [
+            {
+                credencial: "N011305",
+                expedicion: "2026-04-02",
+                vigencia: "02/04/2030",
+                tipo: "Guía especializado en un tema o localidad especifica de carácter cultural",
+                especializacion: "-",
+                subtema: "-",
+                aventura: "-",
+                nivel: ""
+            }
+        ]
+    },    
     "9174": {
         nombre: "MARLEN GABRIELA NUÑEZ GUZMÁN",
         estadoMunicipio: "SAN MARTÍN DE LAS PIRAMIDES, MÉXICO",
