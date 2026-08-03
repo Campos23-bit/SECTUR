@@ -27,8 +27,8 @@ const personas = {
         guias: [
             {
                 credencial: "N2658",
-                expedicion: "2022-09-25",
-                vigencia: "25/09/2026",
+                expedicion: "2026-05-25",
+                vigencia: "25/05/2030",
                 tipo: "Guía de turista general",
                 especializacion: "-",
                 subtema: "-",
@@ -37,6 +37,25 @@ const personas = {
             }
         ]
     },
+    "9175": {
+        nombre: "MARCO ANTONIO TENORIO ALCANTARA",
+        estadoMunicipio: "TEOTIHUACÁN, MÉXICO",
+        idiomas: "ESPAÑOL, INGLÉS",
+        lugarTrabajo: "Teotihuacán",
+        ubicacion: { lat: 19.683686, lng: -98.869295 },
+        guias: [
+            {
+                credencial: "N010124",
+                expedicion: "2026-04-02",
+                vigencia: "02/04/2030",
+                tipo: "Guía de turista general",
+                especializacion: "-",
+                subtema: "-",
+                aventura: "-",
+                nivel: ""
+            }
+        ]
+    },    
     "9174": {
         nombre: "MARLEN GABRIELA NUÑEZ GUZMÁN",
         estadoMunicipio: "SAN MARTÍN DE LAS PIRAMIDES, MÉXICO",
@@ -46,8 +65,8 @@ const personas = {
         guias: [
             {
                 credencial: "N433120",
-                expedicion: "2002-08-23",
-                vigencia: "02/08/2027",
+                expedicion: "2026-04-23",
+                vigencia: "23/04/2030",
                 tipo: "Guía de turista general",
                 especializacion: "-",
                 subtema: "-",
