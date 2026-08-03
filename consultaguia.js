@@ -1,15 +1,15 @@
 const personas = {
     "9172": {
-        nombre: "TERESA OLIVA HERNANDEZ",
+        nombre: "ADRIANA LETICIA BENITEZ SERVANTES",
         estadoMunicipio: "TEOTIHUACÁN, MÉXICO",
         idiomas: "ESPAÑOL, INGLÉS",
         lugarTrabajo: "Teotihuacán",
         ubicacion: { lat: 19.683686, lng: -98.869295 },
         guias: [
             {
-                credencial: "N011472",
-                expedicion: "2023-08-02",
-                vigencia: "02/08/2027",
+                credencial: "N466710",
+                expedicion: "2026-04-02",
+                vigencia: "02/04/2030",
                 tipo: "Guía de turista general",
                 especializacion: "-",
                 subtema: "-",
