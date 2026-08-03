@@ -55,25 +55,6 @@ const personas = {
                 nivel: ""
             }
         ]
-    },
-    "9175": {
-        nombre: "MARCO ANTONIO TENORIO ALCANTARA",
-        estadoMunicipio: "TEOTIHUACÁN, MÉXICO",
-        idiomas: "ESPAÑOL, INGLÉS",
-        lugarTrabajo: "Teotihuacán",
-        ubicacion: { lat: 19.683686, lng: -98.869295 },
-        guias: [
-            {
-                credencial: "N010124",
-                expedicion: "2026-03-09",
-                vigencia: "09/04/2030",
-                tipo: "Guía de turista general",
-                especializacion: "-",
-                subtema: "-",
-                aventura: "-",
-                nivel: ""
-            }
-        ]
 };
 
 // ==========================================
