@@ -75,6 +75,25 @@ const personas = {
             }
         ]
     },    
+    "9179": {
+        nombre: "JOSÉ SALVADOR CESPEDES ALDANA",
+        estadoMunicipio: "TEOTIHUACÁN, MÉXICO",
+        idiomas: "ESPAÑOL, INGLÉS",
+        lugarTrabajo: "Teotihuacán",
+        ubicacion: { lat: 19.683686, lng: -98.869295 },
+        guias: [
+            {
+                credencial: "N010035",
+                expedicion: "2026-02-16",
+                vigencia: "16/02/2030",
+                tipo: "Guía de turista general",
+                especializacion: "-",
+                subtema: "-",
+                aventura: "-",
+                nivel: ""
+            }
+        ]
+    },    
     "9177": {
         nombre: "ALDO EMMANUEL HERNANDEZ ORTIZ",
         estadoMunicipio: "TEOTIHUACÁN, MÉXICO",
@@ -94,15 +113,15 @@ const personas = {
             }
         ]
     },    
-    "9174": {
-        nombre: "MARLEN GABRIELA NUÑEZ GUZMÁN",
-        estadoMunicipio: "SAN MARTÍN DE LAS PIRAMIDES, MÉXICO",
+    "9178": {
+        nombre: "IVAN ENRIQUE GOMEZ HERNANDEZ",
+        estadoMunicipio: "TEOTIHUACÁN, MÉXICO",
         idiomas: "ESPAÑOL, INGLÉS",
         lugarTrabajo: "Teotihuacán",
         ubicacion: { lat: 19.683686, lng: -98.869295 },
         guias: [
             {
-                credencial: "N433120",
+                credencial: "L004910",
                 expedicion: "2026-04-23",
                 vigencia: "23/04/2030",
                 tipo: "Guía de turista general",
