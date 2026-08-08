@@ -26,7 +26,7 @@ const personas = {
         ubicacion: { lat: 19.683686, lng: -98.869295 },
         guias: [
             {
-                credencial: "N2658",
+                credencial: "N012658",
                 expedicion: "2026-05-25",
                 vigencia: "25/05/2030",
                 tipo: "Guía de turista general",
