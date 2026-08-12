@@ -56,6 +56,25 @@ const personas = {
             }
         ]
     },    
+    "9174": {
+        nombre: "MARLEN GABRIELA NUÑEZ GUZMAN",
+        estadoMunicipio: "SAN MARTIN DE LAS PIRAMIDES, MEXICO",
+        idiomas: "ESPAÑOL, INGLÉS",
+        lugarTrabajo: "Teotihuacán",
+        ubicacion: { lat: 19.683686, lng: -98.869295 },
+        guias: [
+            {
+                credencial: "N433120",
+                expedicion: "2026-04-02",
+                vigencia: "02/04/2030",
+                tipo: "Guía de turista general",
+                especializacion: "-",
+                subtema: "-",
+                aventura: "-",
+                nivel: ""
+            }
+        ]
+    },    
     "9176": {
         nombre: "JESUS EFREN GUTIERREZ SANCHEZ",
         estadoMunicipio: "TEOTIHUACÁN, MÉXICO",
