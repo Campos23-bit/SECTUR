@@ -94,6 +94,25 @@ const personas = {
             }
         ]
     },    
+    "9180": {
+        nombre: "DAVID VEGA SALAZAR",
+        estadoMunicipio: "TEOTIHUACÁN, MÉXICO",
+        idiomas: "ESPAÑOL, INGLÉS",
+        lugarTrabajo: "Teotihuacán",
+        ubicacion: { lat: 19.683686, lng: -98.869295 },
+        guias: [
+            {
+                credencial: "L006272",
+                expedicion: "2026-05-16",
+                vigencia: "16/05/2030",
+                tipo: "Guía de turista general",
+                especializacion: "-",
+                subtema: "-",
+                aventura: "-",
+                nivel: ""
+            }
+        ]
+    },    
     "9179": {
         nombre: "JOSÉ SALVADOR CESPEDES ALDANA",
         estadoMunicipio: "TEOTIHUACÁN, MÉXICO",
