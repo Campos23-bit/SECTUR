@@ -105,7 +105,7 @@ const personas = {
                 credencial: "L006272",
                 expedicion: "2026-05-16",
                 vigencia: "16/05/2030",
-                tipo: "Guía de turista general",
+                tipo: "Guía especializado en un tema o localidad especifica de carácter cultural",
                 especializacion: "-",
                 subtema: "-",
                 aventura: "-",
