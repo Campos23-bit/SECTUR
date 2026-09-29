@@ -94,6 +94,25 @@ const personas = {
             }
         ]
     },    
+    "9181": {
+        nombre: "VICTOR MANUEL CERVANTES OLIVA",
+        estadoMunicipio: "TEOTIHUACÁN, MÉXICO",
+        idiomas: "ESPAÑOL, INGLÉS",
+        lugarTrabajo: "Teotihuacán",
+        ubicacion: { lat: 19.683686, lng: -98.869295 },
+        guias: [
+            {
+                credencial: "N466710",
+                expedicion: "2026-04-25",
+                vigencia: "25/04/2030",
+                tipo: "Guía de turista general",
+                especializacion: "-",
+                subtema: "-",
+                aventura: "-",
+                nivel: ""
+            }
+        ]
+    },
     "9180": {
         nombre: "DAVID VEGA SALAZAR",
         estadoMunicipio: "TEOTIHUACÁN, MÉXICO",
