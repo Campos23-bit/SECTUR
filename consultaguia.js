@@ -1,13 +1,13 @@
 const personas = {
     "9172": {
-        nombre: "ADRIANA LETICIA BENITEZ SERVANTES",
+        nombre: "ADRIANA JOCELYN ANDRADE HERNANDEZ",
         estadoMunicipio: "TEOTIHUACÁN, MÉXICO",
         idiomas: "ESPAÑOL, INGLÉS",
         lugarTrabajo: "Teotihuacán",
         ubicacion: { lat: 19.683686, lng: -98.869295 },
         guias: [
             {
-                credencial: "N466710",
+                credencial: "N013748",
                 expedicion: "2026-04-02",
                 vigencia: "02/04/2030",
                 tipo: "Guía de turista general",
@@ -76,14 +76,14 @@ const personas = {
         ]
     },    
     "9176": {
-        nombre: "JESUS EFREN GUTIERREZ SANCHEZ",
+        nombre: "JESUS ROMAN SANCHEZ CARRILLO",
         estadoMunicipio: "TEOTIHUACÁN, MÉXICO",
         idiomas: "ESPAÑOL, INGLÉS",
         lugarTrabajo: "Teotihuacán",
         ubicacion: { lat: 19.683686, lng: -98.869295 },
         guias: [
             {
-                credencial: "N011275",
+                credencial: "N014745",
                 expedicion: "2026-03-16",
                 vigencia: "16/03/2030",
                 tipo: "Guía de turista general",
@@ -181,7 +181,7 @@ const personas = {
                 credencial: "L004910",
                 expedicion: "2026-04-23",
                 vigencia: "23/04/2030",
-                tipo: "Guía de turista general",
+                tipo: "Guía especializado en un tema o localidad especifica de carácter cultural",
                 especializacion: "-",
                 subtema: "-",
                 aventura: "-",
