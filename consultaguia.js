@@ -19,14 +19,14 @@ const personas = {
         ]
     },
     "9173": {
-        nombre: "JUAN CARLOS MACEDONIO ANSELMO",
+        nombre: "JUAN CARLOS GALLARDO SANCHEZ",
         estadoMunicipio: "TEOTIHUACÁN, MÉXICO",
         idiomas: "ESPAÑOL, INGLÉS",
         lugarTrabajo: "Teotihuacán",
         ubicacion: { lat: 19.683686, lng: -98.869295 },
         guias: [
             {
-                credencial: "N012658",
+                credencial: "N013943",
                 expedicion: "2026-05-25",
                 vigencia: "25/05/2030",
                 tipo: "Guía de turista general",
@@ -173,7 +173,7 @@ const personas = {
     "9178": {
         nombre: "IVAN ENRIQUE GOMEZ HERNANDEZ",
         estadoMunicipio: "TEOTIHUACÁN, MÉXICO",
-        idiomas: "ESPAÑOL, INGLÉS",
+        idiomas: "ESPAÑOL",
         lugarTrabajo: "Teotihuacán",
         ubicacion: { lat: 19.683686, lng: -98.869295 },
         guias: [
