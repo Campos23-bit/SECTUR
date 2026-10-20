@@ -1,7 +1,7 @@
 const personas = {
     "9172": {
         nombre: "ADRIANA JOCELYN ANDRADE HERNANDEZ",
-        estadoMunicipio: "TEOTIHUACÁN, MÉXICO",
+        estadoMunicipio: "TECÁMAC, MÉXICO",
         idiomas: "ESPAÑOL, INGLÉS",
         lugarTrabajo: "Teotihuacán",
         ubicacion: { lat: 19.683686, lng: -98.869295 },
