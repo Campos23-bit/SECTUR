@@ -19,14 +19,14 @@ const personas = {
         ]
     },
     "9173": {
-        nombre: "JUAN CARLOS GALLARDO SANCHEZ",
+        nombre: "CARLOS GONZALEZ ROMERO",
         estadoMunicipio: "TEOTIHUACÁN, MÉXICO",
         idiomas: "ESPAÑOL, INGLÉS",
         lugarTrabajo: "Teotihuacán",
         ubicacion: { lat: 19.683686, lng: -98.869295 },
         guias: [
             {
-                credencial: "N013943",
+                credencial: "N011103",
                 expedicion: "2026-05-25",
                 vigencia: "25/05/2030",
                 tipo: "Guía de turista general",
